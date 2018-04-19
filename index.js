@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function shout(string)  
 {
   return string.toUpperCase()
@@ -32,4 +33,9 @@ function sayHiToGrandma(string)
   {
     return 'I love you, too.'
   }
+=======
+function shout(text)  
+{
+  return text.toUpperCase
+>>>>>>> 6aade795268eb877ba52899afbac2bdec76ee249
 }
